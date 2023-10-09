@@ -1,0 +1,1 @@
+console pair = "Invisor Hacking";
